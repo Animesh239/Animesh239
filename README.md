@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Barik</h1>
-<h3 align="center">An underrated Fullstack developer from India</h3>
+<!-- <h3 align="center">An underrated Fullstack developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animesh239&label=Profile%20views&color=0e75b6&style=flat" alt="animesh239" /> </p>
 
